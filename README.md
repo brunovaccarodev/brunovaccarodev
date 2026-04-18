@@ -1,4 +1,3 @@
-
 ## Hi there, I'm Bruno 👋
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">

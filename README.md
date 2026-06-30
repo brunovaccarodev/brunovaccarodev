@@ -1,6 +1,6 @@
 ## Hi there, I'm Bruno 👋
 
-Analista Universitario en Sistemas de Computación y estudiante de Ingeniería en Informática.
+Analista Universitario en Sistemas de Computación y Estuidiante de Ingeniería en Informática.
 
 ## Tecnologías y Herramientas
 * Lenguajes: Java, Python.

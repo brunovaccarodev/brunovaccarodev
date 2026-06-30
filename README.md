@@ -14,5 +14,4 @@ Analista Universitario en Sistemas de Computación y Estuidiante de Ingeniería 
 
 ## Sobre mis repositorios
 Mi desarrollo principal, Climatic Registry for Enterprises se encuentra privado por Protección de Derechos de Autor ante la DNDA.  
-
 Video Demo en mi Perfil de LinkedIn
